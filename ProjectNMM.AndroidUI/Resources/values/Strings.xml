@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Mühle</string>
+
+	<string name="Menu_Title">MenuTitle</string>
+	<string name="Menu_Action01">Action01</string>
+	<string name="Menu_Action02">Action02</string>
+
+	<!-- MainScreen -->
+	<string name="MainScreen_BtnNewGame">Neues Spiel</string>
+	<string name="MainScreen_BtnAbout">Über</string>
+
+	<!-- StartScreen -->
+	<string name="StartScreen_Title">Neues Spiel</string>
+	<string name="StartScreen_TxtNamePlayer1_Hint">Name Spieler 1</string>
+	<string name="StartScreen_TxtNamePlayer2_Hint">Name Spieler 2</string>
+	<string-array name="StartScreen_SpnGameMode_Entries">
+		<item>Spieler gegen Spieler</item>
+		<item>Spieler gegen Computer</item>
+		<item>Computer gegen Computer</item>
+	</string-array>
+	<string name="StartScreen_BtnStartGame">Spiel starten</string>
+
+	<!-- AboutScreen -->
+	<string name="AboutScreen_BtnBack">Zurück</string>
+
+	<!-- Playevents -->
+	<string name="Playevent_NoEvent"></string>
+	<string name="Playevent_PlayerHasMill">Mühle! Sie können einen Stein entfernen.</string>
+	<string name="Playevent_WrongPlaystoneAfterMill">Sie können nur Steine Ihres Gegners auswählen!</string>
+	<string name="Playevent_CannotBreakMill">Sie können nicht Steine aus einer Mühle entfernen!</string>
+	<string name="Playevent_InvalidPlaystone">Sie können diesen Stein nicht auswählen!</string>
+	<string name="Playevent_NoPlaystonesRemovable">Es können keine Steine entfernt werden!</string>
+	<string name="Playevent_GameOverNoMovesPossible">Spieler hat verloren (alle Steine eingeschlossen)!</string>
+	<string name="Playevent_GameOverNoPlaystonesLeft">Spieler hat verloren (weniger als drei Steine)!</string>
+	<string name="Playevent_FinishTurn">Beenden Sie Ihren Spielzug!</string>
+	<string name="Playevent_CannotUndoMill">Eine Mühle kann nicht rückgängig gemacht werden!</string>
+</resources>

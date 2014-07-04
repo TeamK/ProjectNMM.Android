@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" package="com.321polorex123.nmm" android:versionName="0.1">
+	<uses-sdk />
+	<application android:icon="@drawable/icon" android:label="Mühle"></application>
+</manifest>
